@@ -34,13 +34,6 @@ pip install -r requirements.txt
 # Load audio, extract features (Mel spectrograms)
 ```
 
-## 📈 Training & Inference
-
-### 1. Preprocessing
-```python
-# Load audio, extract features (Mel spectrograms)
-```
-
 ### 2. Training
 
 ```python
