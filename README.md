@@ -26,15 +26,18 @@ This project uses the [CREMA-D Dataset](https://zenodo.org/record/3666821), whic
 
 ```bash
 pip install -r requirements.txt
-Sure! Here's the section you provided formatted correctly in **Markdown** for your GitHub `README.md`:
 
-````markdown
 ## 📈 Training & Inference
 
 ### 1. Preprocessing
 ```python
 # Load audio, extract features (Mel spectrograms)
-````
+## 📈 Training & Inference
+
+### 1. Preprocessing
+```python
+# Load audio, extract features (Mel spectrograms)
+
 
 ### 2. Training
 
