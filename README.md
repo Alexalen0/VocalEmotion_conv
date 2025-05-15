@@ -26,6 +26,7 @@ This project uses the [CREMA-D Dataset](https://zenodo.org/record/3666821), whic
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 📈 Training & Inference
 
